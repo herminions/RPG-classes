@@ -1,0 +1,2 @@
+# Hero class project ⚔️🥷
+In this project, I developed a system designed to recognize crucial information regarding the class of the player's hero. The primary objective was to generate a message that portrays the nature of the hero's attacks based on the identified class information.
